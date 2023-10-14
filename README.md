@@ -7,7 +7,7 @@ OH-Sentence is a large-scale continuous sign language recognition (SLR) dataset 
 ## Download
 ---
 The OH-Sentence database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below:
-- Download the [OH-Sentence Dataset Release Agreement]();
+- Download the [OH-Sentence Dataset Release Agreement](https://github.com/ZhangJiangtao-0108/OH-Sentence_Dataset/blob/main/OH-Sentence%20_Dataset%20_Release%20_Agreement.pdf);
 - Read all items and conditions carefully;
 - Complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, the student is not acceptable).
 - Please scan the signed agreement, send it to (zhangjiangtao@mail.hfut.edu.cn) and CC to Prof. Wang (qswang@hfut.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
