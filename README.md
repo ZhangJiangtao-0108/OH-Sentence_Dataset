@@ -16,6 +16,7 @@ The OH-Sentence database is released to universities and research institutes for
 ---
 Please cite the following papers if you use OH-Sentence dataset for your research:
 - J. Zhang, Q. Wang, Q. Wang, and Z. Zheng, “Multimodal fusion framework based on statistical attention and contrastive attention for sign language recognition,” IEEE Transactions on Mobile Computing, pp. 1–13, 2023, doi:10.1109/TMC.2023.3235935
+  
 Besides, you can refer to the following papers for continuous SLR published by our group:
 - J. Zhang, Q. Wang, and Q. Wang, “HDTSLR: A framework based on hierarchical dynamic positional encoding for sign language recognition,” IEEE Transactions on Mobile Computing, pp. 1–13, 2023, doi:10.1109/TMC.2023.3310712
 
